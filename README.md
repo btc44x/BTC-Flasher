@@ -22,4 +22,4 @@ YOU CAN ASK FOR INFO FOR EACH AND EVERY ONE EDITION
 
 # CONTACT ME
 
-💬Contact [https://t.me/btc44x](https://t.me/btc44x)https://t.me/btc44x 🔗
+💬Contact [https://t.me/btc44x](https://t.me/btc44x) 🔗
