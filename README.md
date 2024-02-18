@@ -1,7 +1,9 @@
 # NEW CRYPTO
 
 Tether USD ( Standard edition 300 tUSD / Day | Premium edition 4000 tUSD / Day )
+
 Litecoin ( Standard edition 150 Ltc / Day | Premium edition 1500 Ltc / Day )
+
 Monero ( Standard edition 300 Xmr / Day | Premium edition 3500 Xmr / Day )
 
 # FEATURES
