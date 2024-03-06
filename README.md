@@ -23,7 +23,7 @@ Monero ( Standard edition 300 Xmr / Day | Premium edition 3500 Xmr / Day )
 
 ## PRICING
 
-Standard edition - $50, Premium edition - $100, Demo - $25 - You can flash only bitcoin
+Standard edition - $75, Premium edition - $150, Demo - $25 - You can flash only bitcoin
 
 
 **NOTE:**
